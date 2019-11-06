@@ -1,1 +1,0 @@
-yarn add webpack webpack-cli webpack-dev-server mini-css-extract-plugin html-webpack-plugin html-loader css-loader sass-loader node-sass file-loader eslint eslint-config-airbnb-base eslint-plugin-import prettier eslint-plugin-prettier eslint-config-prettier  -D
