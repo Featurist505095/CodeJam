@@ -1,7 +1,7 @@
 import './index.scss';
-import tester from './test/test';
+import script from './scripts/script';
 
 function init() {
-  return tester(5, 5);
+  return script;
 }
 console.log(init());
